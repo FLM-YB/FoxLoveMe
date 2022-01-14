@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FoxLoveMe
 - 👀 I’m interested in C# | HTML | CSS
-- 🌱 I’m currently learning C# in Unity
+- 🌱 I’m currently learning C# + Unity
 - 📫 How to reach me foxlovemeoff@gmail.com
